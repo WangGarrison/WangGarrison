@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @WangGarrison
 - 👀 I’m interested in C/C++Golang back-end program development.
-- ✨ Welcome to my blog https://wanggarrison.top
+- ✨ Welcome to my blog https://wanggarrison.github.io
 - 📫 Email: 2632170140@qq.com  Tel: 156-9117-7603
 
 <!---
